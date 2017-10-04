@@ -41,7 +41,6 @@ html {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  padding-top: 15em;
   border-bottom: solid 3px #2d5a4d;
 }
 
@@ -50,11 +49,9 @@ html {
   background-image: url("../images/two-leaves.svg");
   background-position: left top;
   background-repeat: no-repeat;
-  background-size: 64px auto;
 }
 
 .banner-content p {
-  padding-top: 64px;
 }
 
 @media only screen and (min-width: 60em) {
