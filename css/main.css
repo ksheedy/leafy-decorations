@@ -38,7 +38,7 @@ html {
 
 .banner {
   background-image: url("../images/banner.jpg");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   padding-top: 10em;
 }
