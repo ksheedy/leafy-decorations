@@ -11,6 +11,7 @@ html {
 
 .logo {
   text-align: center;
+  color: #fff;
 }
 
 .nav {
@@ -19,9 +20,18 @@ html {
 
 .nav a {
   text-decoration: none;
+  color: #fff;
+  background-color: #467366;
+  border: solid 3px #2d5a4d;
+  border-radius: 8px;
 }
 
 .nav a:hover {
+  background-color: #fff;
+  background-image: url("../images/leaf-icon.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 
 }
 
