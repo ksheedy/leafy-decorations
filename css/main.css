@@ -37,11 +37,22 @@ html {
 }
 
 .banner {
-
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 10em;
 }
 
 .banner-content {
+  color: #fff;
+  background-image: url("../images/two-leaves.svg");
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: 64px auto;
+}
 
+.banner-content p {
+  padding-top: 64px;
 }
 
 @media only screen and (min-width: 60em) {
