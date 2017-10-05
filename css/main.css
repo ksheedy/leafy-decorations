@@ -47,8 +47,10 @@ html {
 .banner-content {
   color: #fff;
   background-image: url("../images/two-leaves.svg");
-  background-position: left top;
+  background-position: .75em 180px;
   background-repeat: no-repeat;
+  background-size: 100px auto;
+  padding-top: 300px;
 }
 
 @media only screen and (min-width: 60em) {
